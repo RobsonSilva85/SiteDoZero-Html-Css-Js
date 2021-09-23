@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.menu-principal {
+background-color: #252323;
+height: 60px;
+width: 100%;
+}
+main{
+    width: 980px;
+    margin: auto;
+    position: relative;
+}
+.logo{
+    padding: 16px;
+    padding-left: 14px;
+    width: 40%;
+    float: left;
+}
+.redes-socias ul li{
+    display: inline-block;
+    float: left;
+    margin-left: 15px;
+    
+    
+}
+.redes-socias{
+    width: 25%;
+    float:right;
+}
